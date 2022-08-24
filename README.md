@@ -7,7 +7,7 @@
 * The purpose of this project is to track our gas fuels without 
     keeping any recipts nor getting into the google sheets app.
 
-* Also, it was nice opportunity to learn javascript.
+* Also, that was a nice opportunity to learn javascript.
 
 
 ## How do we use it?
