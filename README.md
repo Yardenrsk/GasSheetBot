@@ -1,14 +1,14 @@
 
 # GasBot
 
-* A little project I made in order to solve a daily inconvenience
-    for my family and I. 
+* A little project I made in order to solve an inconvenience
+    in my family's day-to-day life.
     
 * The purpose of this project is to track our gas fuels without 
-    keeping any recipts nor getting into the google sheets app (limited amount -
-    corporate's car).
+    keeping any recipts nor getting into the google sheets app and enter the amount manually (limited amount of liters -
+    corporate car).
 
-* Also, that was a nice opportunity to learn javascript.
+* Also, that was a nice opportunity to learn javascript and using the Telegram Bot API.
 
 
 ## How do we use it?
