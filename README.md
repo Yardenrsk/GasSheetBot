@@ -16,7 +16,7 @@
 * We have added the bot to a designated group of my family on
     telegram.
 * Each time someone fuels the car - he easily sends the
-    amount of gas that was fuled.
+    amount of gas that was filled.
     The bot is adding the value our google sheet and replies on
     the chat with the up to date data (a chart + relevant data in text)
 * If we want to get information, we just send "0" in the chat 
